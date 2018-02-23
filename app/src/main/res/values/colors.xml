@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gray">#bfbfbf</color>
+    <color name="white">#fff</color>
+    <color name="blue">#484ad2</color>
+    <color name="green">#39ff80</color>
+    <color name="black">#000</color>
+    <color name="menu_background">#50c6a7</color> <!-- smapp: 08e66d -->
+</resources>
